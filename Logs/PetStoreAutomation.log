@@ -1,0 +1,14 @@
+2024-08-29 00:44:54.350 DEBUG [main] [api.test.UserTest2.setUp(UserTest2.java:56)] - ***** debugging********
+2024-08-29 00:44:54.382 INFO [main] [api.test.UserTest2.testPostUser(UserTest2.java:63)] - ***********Creating User ***********
+2024-08-29 00:44:56.150 INFO [main] [api.test.UserTest2.testPostUser(UserTest2.java:67)] - ***********User Created Successfully ***********
+2024-08-29 00:44:56.156 INFO [main] [api.test.UserTest2.testGetUserByName(UserTest2.java:76)] - ******* Get User By Name********
+2024-08-29 00:44:56.331 INFO [main] [api.test.UserTest2.testUpdateUserByName(UserTest2.java:87)] - ***** Update User******
+2024-08-29 00:44:56.485 INFO [main] [api.test.UserTest2.testUpdateUserByName(UserTest2.java:94)] - ***** User Updated Successfully******
+2024-08-29 00:44:56.490 INFO [main] [api.test.UserTest2.testDeleteUserName(UserTest2.java:101)] - ***** Delete  User******
+2024-08-29 01:03:36.803 DEBUG [main] [api.test.UserTests.setUp(UserTests.java:55)] - ***** debugging********
+2024-08-29 01:03:36.816 INFO [main] [api.test.UserTests.testPostUser(UserTests.java:62)] - ***********Creating User ***********
+2024-08-29 01:03:38.673 INFO [main] [api.test.UserTests.testPostUser(UserTests.java:66)] - ***********User Created Successfully ***********
+2024-08-29 01:03:38.686 INFO [main] [api.test.UserTests.testGetUserByName(UserTests.java:75)] - ******* Get User By Name********
+2024-08-29 01:03:38.904 INFO [main] [api.test.UserTests.testUpdateUserByName(UserTests.java:86)] - ***** Update User******
+2024-08-29 01:03:39.062 INFO [main] [api.test.UserTests.testUpdateUserByName(UserTests.java:93)] - ***** User Updated Successfully******
+2024-08-29 01:03:39.065 INFO [main] [api.test.UserTests.testDeleteUserName(UserTests.java:100)] - ***** Delete  User******
